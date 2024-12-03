@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ce75283c6bb3d3db293a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Laba4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba4-Debug-9f65dd0d017d14c281c2.json",
+					"name" : "Laba4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba4_autogen-Debug-76a792e04d8e2ead3642.json",
+					"name" : "Laba4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba4_autogen_timestamp_deps-Debug-ae54e52a5c0a92a4b9a1.json",
+					"name" : "Laba4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug",
+		"source" : "/home/monolit/Downloads/laba4/Laba4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

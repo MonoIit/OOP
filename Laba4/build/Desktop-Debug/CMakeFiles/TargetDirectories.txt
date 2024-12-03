@@ -1,0 +1,9 @@
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/Laba4.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/install.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/Laba4_autogen_timestamp_deps.dir
+/home/monolit/Downloads/laba4/Laba4/build/Desktop-Debug/CMakeFiles/Laba4_autogen.dir
